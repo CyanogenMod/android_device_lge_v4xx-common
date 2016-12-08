@@ -1,1 +1,2 @@
 type modem_block_device, dev_type;
+type persist_block_device, dev_type;
